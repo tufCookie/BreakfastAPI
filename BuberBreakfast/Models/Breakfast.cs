@@ -1,3 +1,5 @@
+namespace BuberBreakfast.Models;
+
 public class Breakfast{
     public Breakfast()
     {
